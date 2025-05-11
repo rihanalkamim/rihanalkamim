@@ -34,8 +34,14 @@
 
 ### 📫 Como me encontrar:
 <div>
+  <a href="https://www.youtube.com/@rihanalkamim" target="_blank" rel="noopener noreferrer">
+    <img height="50cm" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>
+  </a>
   <a href="https://www.linkedin.com/in/rihanalkamim" target="_blank" rel="noopener noreferrer">
     <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  <a href="mailto:rihanalkamim@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img height="50cm" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>
   </a>
 </div>
 
