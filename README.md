@@ -31,7 +31,7 @@
 - Análise e mitigação de ameça com FortiEDR e FortiWEB
 - Administrador de servidores Linux e Windows
 - Bash Script, Hardening, OpenSSL, Certificados
-- Docker, Git, Vaultwarden
+- Docker, Git, Vaultwarden, Apache, Nginx, etc.
 - Monitoramento com Zabbix e Grafana
 - Gerenciamento de identidades e autenticação segura
 
