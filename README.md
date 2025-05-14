@@ -39,7 +39,9 @@
 
 ### 🚀 Projetos em destaque
 <div>
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/pin/?username=rihanalkamim&repo=Install-Vaultwarden&theme=dark"/>
+  <a href=https://github.com/rihanalkamim/Install-Vaultwarden>
+    <img height="120cm" src="https://github-readme-stats.vercel.app/api/pin/?username=rihanalkamim&repo=Install-Vaultwarden&theme=dark"/>
+  </a>
 </div>
 
 ---
